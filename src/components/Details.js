@@ -49,7 +49,7 @@ export default class Details extends Component {
                   {/* buttons */}
                   <div>
                     <Link to="/">
-                      <ButtonContainer>zurück zu produkten</ButtonContainer>
+                      <ButtonContainer>zu produkten</ButtonContainer>
                     </Link>
                     <ButtonContainer
                       cart
@@ -59,7 +59,7 @@ export default class Details extends Component {
                         value.openModal(id);
                       }}
                     >
-                      {inCart ? "in cart" : "add to cart"}
+                      {inCart ? "in cart" : "kaufen"}
                     </ButtonContainer>
                   </div>
                 </div>

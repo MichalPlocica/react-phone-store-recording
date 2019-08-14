@@ -31,7 +31,7 @@ export default class Modal extends Component {
                             closeModal();
                           }}
                         >
-                          Continue Shopping
+                          zu producten
                         </ButtonContainer>
                       </Link>
                       <Link to="/cart">
@@ -41,7 +41,7 @@ export default class Modal extends Component {
                             closeModal();
                           }}
                         >
-                          Go To Cart
+                          zur kasse
                         </ButtonContainer>
                       </Link>
                     </div>
