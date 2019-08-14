@@ -17,7 +17,7 @@ https://www.iconfinder.com/Makoto_msk */}
         <ul className="navbar-nav align-items-center">
           <li className="nav-item ml-5">
             <Link to="/" className="nav-link">
-              products
+              produkte
             </Link>
           </li>
         </ul>
@@ -26,7 +26,7 @@ https://www.iconfinder.com/Makoto_msk */}
             <span className="mr-2">
               <i className="fas fa-cart-plus " />
             </span>
-            my cart
+            einkaufswagen
           </ButtonContainer>
         </Link>
       </Nav>

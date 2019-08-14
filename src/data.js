@@ -101,17 +101,17 @@ export const storeProducts = [
     total: 0
   },*/
   {id: 9,
-    title: "Herbadent Zahnpasta",
+    title: "Tebodont Gel",
     img: "img/product-9.png",
     price: 10,
-    company: "apple",
+    /*company: "apple",*/
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Tebodont Gel mit original australischem Teebaumöl hilft bei Irritationen am Zahnfleisch und der Mundschleimhaut. Anwendung: den Gel 2-4 mal täglich mit der Kanüle auf das Zahnfleisch auftragen und mit der Fingerspitze leicht einmassieren. Alle mit der Mundschleimhaut in Kontakt kommende Prothesenflächen, Platten und andere Vorrichtungen mit etwas Gel bestreichen.Zur Intensivpflege bei Irritationen am Zahnfleisch und der Mundschleimhaut und erhöhter Plaquebildung. dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
     inCart: false,
     count: 0,
     total: 0
   },
-  {id: 10,
+  /*{id: 10,
     title: "Opalescence 12x",
     img: "img/product-10.png",
     price: 240,
@@ -121,14 +121,14 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
-  },
+  },*/
   {id: 11,
-    title: "Opalescence 1x",
+    title: "Opalescence Spritze",
     img: "img/product-11.png",
     price: 26,
-    company: "apple",
+    /*company: "apple",*/
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Opalescence PF ist ein professionelles Zahnaufhellungsgel für die Anwendung zu Hause. In speziell für Sie angefertigten Schienen sorgt Opalescence PF für ein strahlenderes, weißeres Lächeln. Es ist daher ideal für diejenigen geeignet, die sich eine möglichst individuelle Zahnaufhellungsbehandlung wünschen. Nach der ersten Anwendung in der Zahnarztpraxis können Sie die weitere Behandlung bequem zu Hause durchführen, bis das gewünschte Aufhellungsergebnis erreicht ist.",
     inCart: false,
     count: 0,
     total: 0
