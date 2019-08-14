@@ -31,7 +31,7 @@ export default class Modal extends Component {
                             closeModal();
                           }}
                         >
-                          zu producten
+                          zu produkten
                         </ButtonContainer>
                       </Link>
                       <Link to="/cart">
