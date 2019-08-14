@@ -18,10 +18,10 @@ export default class Modal extends Component {
                 <div className="container">
                   <div className="row">
                     <div
-                      className="col-8 mx-auto col-md-6 col-lg-4 p-5 text-center text-capitalize"
+                      className="col-8 mx-auto col-md-6 col-lg-4 p-5 text-center" /*text-capitalize*/
                       id="modal"
                     >
-                      <h5>das product liegt jetzt in dem Warenkorb</h5>
+                      <h5>Das product liegt jetzt im Warenkorb.</h5>
                       <img src={img} className="img-fluid" alt="" />
                       <h5>{title}</h5>
                       <h5 className="text-muted">price : {price},- fr</h5>
