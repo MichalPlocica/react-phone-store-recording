@@ -125,7 +125,7 @@ export const storeProducts = [
   {id: 11,
     title: "Opalescence Spritze",
     img: "img/product-11.png",
-    price: 26,
+    price: 21,
     /*company: "apple",*/
     info:
       "Opalescence PF ist ein professionelles Zahnaufhellungsgel für die Anwendung zu Hause. In speziell für Sie angefertigten Schienen sorgt Opalescence PF für ein strahlenderes, weißeres Lächeln. Es ist daher ideal für diejenigen geeignet, die sich eine möglichst individuelle Zahnaufhellungsbehandlung wünschen. Nach der ersten Anwendung in der Zahnarztpraxis können Sie die weitere Behandlung bequem zu Hause durchführen, bis das gewünschte Aufhellungsergebnis erreicht ist.",
